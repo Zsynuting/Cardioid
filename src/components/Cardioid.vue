@@ -18,7 +18,6 @@ export default {
   },
   methods: {
     bubble() {
-      debugger;
       painter.at(event.clientX, event.clientY);
     }
   }
