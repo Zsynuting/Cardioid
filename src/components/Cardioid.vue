@@ -23,9 +23,3 @@ export default {
   }
 };
 </script>
-
-<style scoped>
-canvas {
-  background-color: #fff;
-}
-</style>

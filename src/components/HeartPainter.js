@@ -16,6 +16,7 @@ export default function () {
       h.move();
       h.paint(context);
     })
+    
     let i = 0;
     while (i < hearts.length) {
       if (hearts[i]) {

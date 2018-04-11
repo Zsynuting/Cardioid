@@ -1,6 +1,6 @@
 # cardioid
 
-> A Vue project of painting cardioid(heart) on canvas(html), with animation such as bubbling and fade out
+> A Vue project of painting cardioid(heart) on canvas(html) when mouse clicks on screen, with animation such as bubbling and fade out
 
 ## Build Setup
 
